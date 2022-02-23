@@ -1,1 +1,2 @@
-# miniproject2 - RULE: Go to Wikipedia and type 'diana' into the search bar. Press enter. From the bottommost link, begin counting to 5 and select the one it lands on. Proceed until you get to at least five pages.
+# miniproject2
+RULE: Go to Wikipedia and type 'diana' into the search bar. Press enter. From the bottommost link, begin counting to 5 and select the one it lands on. Proceed until you get to at least five pages.
